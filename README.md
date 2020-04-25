@@ -1,5 +1,9 @@
-# Risk_Loss_aversion
-This repository contains the Matlab code necessary to estimate risk and loss aversion from a multi-session gambling task.
+# Risk Loss aversion task and modelling
+
+### Risk and Loss aversion task
+
+### Risk and Loss aversion modelling
+The modelling folder contains the Matlab code necessary to estimate risk and loss aversion from a multi-session gambling task.
 
 The modelling script to be run is the "run_models_nobounds_Nov2018.m", which calls the other functions.
 
