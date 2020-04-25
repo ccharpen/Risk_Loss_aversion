@@ -5,7 +5,7 @@ For any question please contact Caroline Charpentier (ccharpen@caltech.edu)
 The 'task' folder contains Matlab code for running the risk and loss aversion task (~10-15 minutes) using Cogent for stimuli presentation. Note that Cogent is not supported anymore, but can still be downloaded here: http://www.vislab.ucl.ac.uk/cogent_2000.php.
 Therefore, I would recommend recoding this task anyway using PsychoPy (https://www.psychopy.org/) for in-lab studies or jsPsych (https://www.jspsych.org/) for online studies.
 
-The task code ('Main_task_script.m') also contains a rough estimation of the risk and loss aversion parameter, also the code included in the 'modelling' folder is more up-to-date in terms of better optimization of the parameter estimation procedure.
+The task code ('Main_task_script.m') also contains a rough estimation of the risk and loss aversion parameters, although the code included in the 'modelling' folder is more up-to-date in terms of better optimization of the modelling and parameter estimation procedure.
 
 Please refer to the 'Task_and_modelling_description.doc' in the 'task' folder for further instructions and details.
 
